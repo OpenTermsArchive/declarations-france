@@ -1,0 +1,9 @@
+{
+  "name": "Addidas",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.adidas.fr/privacy_policy",
+      "select": [".component-wrapper___2BSG0"]
+    }
+  }
+}
