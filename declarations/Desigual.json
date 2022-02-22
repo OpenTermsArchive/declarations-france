@@ -1,0 +1,11 @@
+{
+  "name": "Desigual",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.desigual.com/on/demandware.static/-/Library-Sites-DsglSharedLibrary/default/dw98507c8d/docs/legal/Footer_legal_documents/Francia/FRANCIA-Condiciones_Generales_Venta_Vfinal_FR_230321.pdf"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.desigual.com/on/demandware.static/-/Library-Sites-DsglSharedLibrary/default/dw77e5bf6a/docs/legal/Footer_legal_documents/Francia/FRANCIA-POLITICA_DE_PRIVACIDAD_Vfinal_FR_230321.pdf"
+    }
+  }
+}
