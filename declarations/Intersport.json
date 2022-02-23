@@ -1,0 +1,13 @@
+{
+  "name": "Intersport",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.intersport.fr/cgv/",
+      "select": ["#ext_cms_content"]
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.intersport.fr/politique-donnees/",
+      "select": ["#ext_cms_content"]
+    }
+  }
+}
