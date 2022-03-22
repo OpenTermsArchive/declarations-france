@@ -1,0 +1,9 @@
+{
+  "name": "Air Transat",
+  "documents": {
+    "Commercial Terms": {
+      "fetch": "https://www.airtransat.com/fr-FR/avis-juridiques/conditions-de-vente",
+      "select": ["#mainContent"]
+    }
+  }
+}
