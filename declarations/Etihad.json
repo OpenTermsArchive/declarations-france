@@ -1,0 +1,10 @@
+{
+  "name": "Etihad",
+  "documents": {
+    "Conditions of Carriage": {
+      "fetch": "https://www.etihad.com/fr-fr/legal/conditions-of-carriage",
+      "select": ["#bg"],
+      "remove": [".image-v1"]
+    }
+  }
+}
