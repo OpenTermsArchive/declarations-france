@@ -1,0 +1,10 @@
+{
+  "name": "Corsair",
+  "documents": {
+    "Conditions of Carriage": {
+      "fetch": "https://www.flycorsair.com/fr/legal/conditions-generales-de-vente-et-de-transport",
+      "select": ["article"],
+      "remove": [".breadcrumb-white-background"]
+    }
+  }
+}
