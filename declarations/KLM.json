@@ -1,0 +1,10 @@
+{
+  "name": "KLM",
+  "documents": {
+    "Conditions of Carriage": {
+      "fetch": "https://www.klm.fr/information/legal/conditions-carriage",
+      "select": [".bwc-page-layout__medium"],
+      "remove": ["mat-sidenav"]
+    }
+  }
+}
