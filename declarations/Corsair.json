@@ -3,7 +3,12 @@
   "documents": {
     "Conditions of Carriage": {
       "fetch": "https://www.flycorsair.com/fr/legal/conditions-generales-de-vente-et-de-transport",
-      "select": ["article"],
+      "select": ["#block-corsair2020-content"],
+      "remove": [".breadcrumb-white-background"]
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.flycorsair.com/fr/legal/avis-de-confidentialite-et-cookies",
+      "select": ["#block-corsair2020-content"],
       "remove": [".breadcrumb-white-background"]
     }
   }
