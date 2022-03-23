@@ -1,0 +1,10 @@
+{
+  "name": "Qatar Airways",
+  "documents": {
+    "Conditions of Carriage": {
+      "fetch": "https://www.qatarairways.com/fr-fr/legal/conditions-of-carriage.html",
+      "select": ".main-holder",
+      "remove": ["#breadcrumb", "#logotext-partner"]
+    }
+  }
+}
