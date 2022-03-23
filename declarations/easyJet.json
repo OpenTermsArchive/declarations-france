@@ -1,0 +1,9 @@
+{
+  "name": "easyJet",
+  "documents": {
+    "Conditions of Carriage": {
+      "fetch": "https://www.easyjet.com/fr/conditions-generales",
+      "select": [".page-content"]
+    }
+  }
+}
