@@ -1,0 +1,9 @@
+{
+  "name": "Iberia",
+  "documents": {
+    "Conditions of Carriage": {
+      "fetch": "https://www.iberia.com/fr/conditions-transport/",
+      "select": [".ibe-infocheckin"]
+    }
+  }
+}
