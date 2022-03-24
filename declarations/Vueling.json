@@ -1,0 +1,10 @@
+{
+  "name": "Vueling",
+  "documents": {
+    "Conditions of Carriage": {
+      "fetch": "https://www.vueling.com/fr/service-clients/conditions-de-transport",
+      "select": ".tfm--container",
+      "remove": ".breadcrumb"
+    }
+  }
+}
