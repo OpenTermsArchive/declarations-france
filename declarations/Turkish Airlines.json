@@ -3,6 +3,11 @@
   "documents": {
     "Conditions of Carriage": {
       "fetch": "https://cdn.turkishairlines.com/m/63f512c9e60b2e91/original/general-conditions-of-carriage-FR.pdf"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.turkishairlines.com/fr-fr/legal-notice/privacy-policy/",
+      "select": "section[role=\"main\"]",
+      "remove": ".col-sm-3"
     }
   }
 }
