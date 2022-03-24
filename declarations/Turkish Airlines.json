@@ -1,0 +1,8 @@
+{
+  "name": "Turkish Airlines",
+  "documents": {
+    "Conditions of Carriage": {
+      "fetch": "https://cdn.turkishairlines.com/m/63f512c9e60b2e91/original/general-conditions-of-carriage-FR.pdf"
+    }
+  }
+}
