@@ -1,0 +1,11 @@
+{
+  "name": "Vélib",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.velib-metropole.fr/weblegalnotice",
+      "select": [
+        ".col-lg-8 > .row"
+      ]
+    }
+  }
+}
