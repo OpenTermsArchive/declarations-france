@@ -11,7 +11,7 @@
     },
     "Imprint": {
       "fetch": "https://www.free-now.com/fr/mentions-legales/",
-      "select": ".inner"
+      "select": ".content"
     }
   }
 }
