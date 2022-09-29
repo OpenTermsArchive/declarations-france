@@ -11,9 +11,9 @@
       ]
     },
     "Privacy Policy": {
-      "fetch": "https://talents.comptoirdescotonniers.com/fr/politique-de-protection-des-donnees-personnelles",
+      "fetch": "https://www.comptoirdescotonniers.com/politique-protection-donnees-personnelles-cookies-2021-c317old.html",
       "select": [
-        "main[role=\"main\"]"
+        "#primary"
       ]
     }
   }
