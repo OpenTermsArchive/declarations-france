@@ -2,6 +2,17 @@
   "documents": {
     "Aigle": {
       "General Conditions of Sale": {
+        "skipContent": {
+          ".cssSele": "TEST"
+        },
+        "done": true
+      }
+    },
+    "Aegean Airlines": {
+      "General Conditions of Sale": {
+        "skipCommit": [
+          "e9d068aa8b2d0ff44fc23b124916f8eb83620fa8"
+        ],
         "done": true
       }
     }
