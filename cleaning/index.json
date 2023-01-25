@@ -2,9 +2,6 @@
   "documents": {
     "Aigle": {
       "General Conditions of Sale": {
-        "skipContent": {
-          ".cssSele": "TEST"
-        },
         "done": true
       }
     },
@@ -41,6 +38,9 @@
           "a8eb5eb7d2a1c3665a6f010f1bc4fb33b88c35e7"
         ],
         "done": true
+      },
+      "Privacy Policy": {
+        "done": "2023-01-25T14:00:22.632Z"
       }
     }
   },
