@@ -34,6 +34,14 @@
       "Privacy Policy": {
         "done": true
       }
+    },
+    "Air Austral": {
+      "Conditions of Carriage": {
+        "skipCommit": [
+          "a8eb5eb7d2a1c3665a6f010f1bc4fb33b88c35e7"
+        ],
+        "done": true
+      }
     }
   },
   "documentTypes": {}
