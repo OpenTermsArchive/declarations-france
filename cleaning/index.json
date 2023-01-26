@@ -42,6 +42,20 @@
       "Privacy Policy": {
         "done": "2023-01-25T14:00:22.632Z"
       }
+    },
+    "Alibaba": {
+      "Terms of Service": {
+        "skipCommit": [
+          "f6c1c30fada039cee663b34a9a974b27f532d3ed",
+          "77197a2e17814e363e8bc77ea658ed2a5dd79004",
+          "afd02834e3129964a1d1bd96ab083d530cf58438",
+          "10ffff0ee6a7e9515997023bc498b3f1d8041832"
+        ],
+        "skipContent": {
+          ".ant-tabs-tab-btn": "首页"
+        },
+        "done": "2023-01-26T12:30:02.989Z"
+      }
     }
   },
   "documentTypes": {}
